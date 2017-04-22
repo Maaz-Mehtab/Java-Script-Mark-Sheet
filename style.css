@@ -1,0 +1,45 @@
+.h1 {
+    color: black;
+    display: inline;
+    font-size: 18px;
+    font-style: normal;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    padding: 10px;
+}
+
+table td {
+    padding-left: 180px;
+}
+
+#total {
+    display: inline;
+}
+
+#ob {
+    display: inline;
+}
+
+#grad {
+    display: inline;
+    float: right;
+}
+
+#per1 {
+    margin-top: -50px;
+    margin-left: 60px;
+    display: inline;
+    float: right;
+}
+
+#grasubject1 {
+    margin-top: -30px;
+    margin-left: 60px;
+    display: inline;
+    float: right;
+}
